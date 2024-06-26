@@ -1,8 +1,8 @@
-👋 Hi, I’m @dishaphalle27
+• 👋 Hi, I’m @dishaphalle27
 
 • ☘️ I'm interested in Data Science, Machine Learning and Artificial Intelligence
 
-• 🔴 Currently mastering Python, Tableau, R, MYSQL, Azure, Apache, Sapark, Hadoop, SAS, Artificial intelligence and Deep learning
+• 🎯 Currently mastering Python, Tableau, R, MYSQL, Azure, Apache, Sapark, Hadoop, SAS, Artificial intelligence and Deep learning
 
 • 👀 I'm looking to collaborate on all topics related to Data Science, Machine Learning and Artificial Intelligence.
 
