@@ -3,11 +3,11 @@
 
 - ☘️ I'm interested in Data Science, Machine Learning and Artificial Intelligence
 
-- 🎯 I’m currently learning **mastering Python, Tableau, R, MYSQL, Azure, Apache, Sapark, Hadoop, SAS, Artificial intelligence and Deep learning**
+- 🎯 Currently **mastering Python, Tableau, R, MYSQL, Azure, Apache, Sapark, Hadoop, SAS, Artificial intelligence and Deep learning**
 
 - 👀 I’m looking to collaborate on **all topics related to Data Science, Machine Learning and Artificial Intelligence.**
 
-- 📫 How to reach me **on my email id dishaphalle27@gmail.com**
+- 📫 You can reach me **on my email id dishaphalle27@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
